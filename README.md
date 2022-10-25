@@ -9,14 +9,12 @@
         languagesPrograming = arrayListOf(
             Triple("Java","60%",Level.PLENO),
             Triple("Kotlin","80%",Level.PLENO),
-            Triple("Swift","30%",Level.JUNIOR),
             Triple("JavaScript","40%",Level.JUNIOR),
             Triple("Python","40%",Level.JUNIOR),
         ),
         framework = arrayListOf(
             Pair("React-Native","50%"),
-            Pair("Flutter","15%"),
-            Pair("Xamarin","<5%"),
+            Pair("Flutter","15%")
         ),
         studying = arrayListOf(
             "Flutter","React-Native","Xamarin","Swift","Python"
